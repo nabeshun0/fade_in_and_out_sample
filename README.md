@@ -1,16 +1,6 @@
 # fade_in_and_out_sample
 
-A new Flutter application.
+![2021-03-11 23-31-17 2021-03-11 23_31_39](https://user-images.githubusercontent.com/38596913/110803268-5cf8af00-82c2-11eb-8385-b96cb493131e.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Fade a widget in and out](https://flutter.dev/docs/cookbook/animation/opacity-animation)
